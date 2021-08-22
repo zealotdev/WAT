@@ -13,7 +13,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className="m-auto p-20 flex justify-center">
+      <main className="m-auto py-20 md:p-20 flex justify-center">
         <Tabs>
           <div label="Tab One">
             <h1>TAB ONE</h1>
